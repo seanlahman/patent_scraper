@@ -3,8 +3,9 @@ patent_scraper
 
 Sean Lahman / seanlahman@gmail.com / 10-29-2013
 
-Script to retrieve list of patents from inventors from a given city or list of cities. Used to build a database
-of patents issued to local inventors - http://rocdocs.democratandchronicle.com/patents
+Script to retrieve list of patents from inventors from a given city or list of cities. Scrapes conten from searchable
+database at website for US Patent & Trademark website. Script is used to build and maintain an online listing
+of patents issued to inventors from Monroe County, NY - http://rocdocs.democratandchronicle.com/patents
 
 
 get_index.py - reads list of cities from citylist.csv and retrieves an index of patents that have been issued
